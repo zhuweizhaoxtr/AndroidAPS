@@ -63,6 +63,7 @@ Please follow these steps:
 你需要获取安卓签名文件的密码等信息，因安全原因，这些敏感信息不能公开发布于此。
 **强烈建议学习相关知识，编译完APK后，用你自己的签名文件签名。**
 请按如下步骤操作:
+
 * 克隆此代码仓库到你自己的Github账号
 * 扫描下方二维码关注“一型码农Lex”微信公众号。Scan the below QR code and subscribe "一型码农Lex" WeChat Channel.  
 <a href="/Documentation/wechat_qr.png"><img src="/Documentation/wechat_qr.png?raw=true" alt="WeChat Channel QR code" width="340"></a>  
